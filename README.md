@@ -34,7 +34,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/PedrinhO-D-E-V/PedrinhO-D-E-V/output/snake.svg" alt="Snake animation" />
 
 ###
 
